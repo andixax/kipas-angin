@@ -1,5 +1,5 @@
 # Tools
 
-#
-$
-#
+# Cara Menjalan Kan
+##
+##
